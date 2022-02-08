@@ -1,0 +1,11 @@
+C:\Users\Pahomov.a\Desktop\CatalogTOUpdatePreprocessing\bin\Debug\CatalogTOUpdatePreprocessing.exe.config
+C:\Users\Pahomov.a\Desktop\CatalogTOUpdatePreprocessing\bin\Debug\CatalogTOUpdatePreprocessing.exe
+C:\Users\Pahomov.a\Desktop\CatalogTOUpdatePreprocessing\bin\Debug\CatalogTOUpdatePreprocessing.pdb
+C:\Users\Pahomov.a\Desktop\CatalogTOUpdatePreprocessing\obj\Debug\CatalogTOUpdatePreprocessing.csproj.AssemblyReference.cache
+C:\Users\Pahomov.a\Desktop\CatalogTOUpdatePreprocessing\obj\Debug\CatalogTOUpdatePreprocessing.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pahomov.a\Desktop\CatalogTOUpdatePreprocessing\obj\Debug\CatalogTOUpdatePreprocessing.Properties.Resources.resources
+C:\Users\Pahomov.a\Desktop\CatalogTOUpdatePreprocessing\obj\Debug\CatalogTOUpdatePreprocessing.csproj.GenerateResource.cache
+C:\Users\Pahomov.a\Desktop\CatalogTOUpdatePreprocessing\obj\Debug\CatalogTOUpdatePreprocessing.csproj.CoreCompileInputs.cache
+C:\Users\Pahomov.a\Desktop\CatalogTOUpdatePreprocessing\obj\Debug\CatalogTOUpdatePreprocessing.exe
+C:\Users\Pahomov.a\Desktop\CatalogTOUpdatePreprocessing\obj\Debug\CatalogTOUpdatePreprocessing.pdb
+C:\Users\Pahomov.a\Desktop\CatalogTOUpdatePreprocessing\obj\Debug\CatalogTOUpdatePreprocessing.Form1.resources

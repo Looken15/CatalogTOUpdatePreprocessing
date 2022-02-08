@@ -1,0 +1,10 @@
+C:\Users\Pahomov.a\Desktop\CatalogTOUpdatePreprocessing\bin\Release\CatalogTOUpdatePreprocessing.exe.config
+C:\Users\Pahomov.a\Desktop\CatalogTOUpdatePreprocessing\bin\Release\CatalogTOUpdatePreprocessing.exe
+C:\Users\Pahomov.a\Desktop\CatalogTOUpdatePreprocessing\bin\Release\CatalogTOUpdatePreprocessing.pdb
+C:\Users\Pahomov.a\Desktop\CatalogTOUpdatePreprocessing\obj\Release\CatalogTOUpdatePreprocessing.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pahomov.a\Desktop\CatalogTOUpdatePreprocessing\obj\Release\CatalogTOUpdatePreprocessing.Form1.resources
+C:\Users\Pahomov.a\Desktop\CatalogTOUpdatePreprocessing\obj\Release\CatalogTOUpdatePreprocessing.Properties.Resources.resources
+C:\Users\Pahomov.a\Desktop\CatalogTOUpdatePreprocessing\obj\Release\CatalogTOUpdatePreprocessing.csproj.GenerateResource.cache
+C:\Users\Pahomov.a\Desktop\CatalogTOUpdatePreprocessing\obj\Release\CatalogTOUpdatePreprocessing.csproj.CoreCompileInputs.cache
+C:\Users\Pahomov.a\Desktop\CatalogTOUpdatePreprocessing\obj\Release\CatalogTOUpdatePreprocessing.exe
+C:\Users\Pahomov.a\Desktop\CatalogTOUpdatePreprocessing\obj\Release\CatalogTOUpdatePreprocessing.pdb
